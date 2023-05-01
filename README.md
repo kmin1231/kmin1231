@@ -11,8 +11,7 @@
 - cloud computing
 
 ## experience()
-- Python / C++ <br>
-<br>
+- Python / C++
 
 <!--return kmin1231-->
 
