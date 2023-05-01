@@ -1,6 +1,6 @@
 <!--### Hello World! 👋-->
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=84C5DC&height=70&section=header&text=def%20__init__(self):&fontSize=50&fontColor=84C5DC)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=84C5DC&height=70&section=header&text=def%20__init__(self):&fontSize=40&fontColor=84C5DC)
 
 ## education()
 - Currently majoring in Computer Science and Engineering
