@@ -6,9 +6,10 @@
 - Currently majoring in Computer Science and Engineering
 
 ## interest()
-- data analysis
-- artificial intelligence
-- cloud computing
+- data science
+- AI / machine learning
+- financial engineering
+- natural language processing
 
 ## experience()
 - Python / C++
