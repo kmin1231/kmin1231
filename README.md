@@ -6,13 +6,14 @@
 - Currently majoring in Computer Science and Engineering
 
 ## interest()
+- backend / server
 - data science
 - AI / machine learning
 - financial engineering
 - natural language processing
 
 ## experience()
-- Python / C++
+- Python / C++ / Java
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmin1231&layout=compact" />
