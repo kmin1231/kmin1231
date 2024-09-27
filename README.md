@@ -16,7 +16,7 @@
 - Python / C++ / Java / JavaScript
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmin1231&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmin1231&layout=compact&langs_count=10" />
 </p>
 
 <!--return kmin1231-->
