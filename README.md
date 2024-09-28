@@ -72,7 +72,8 @@
 <!--    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">-->
 <!--</div>-->
 
-<p align="center" style="margin-top: 1em">
+<br>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmin1231&layout=compact&theme=catppuccin_latte&langs_count=8" />
 </p>
 
