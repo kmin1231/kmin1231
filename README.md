@@ -84,11 +84,11 @@
 <div style="text-align: center;">
     <h2>Interests 👀</h2>
     <ul style="padding: 0; margin: 0; display: inline-block; text-align: left;">
-        <li style="list-style-position: outside; text-indent: -1em; padding-left: 1em;">Backend / Server</li>
-        <li style="list-style-position: outside; text-indent: -1em; padding-left: 1em;">Data Science</li>
-        <li style="list-style-position: outside; text-indent: -1em; padding-left: 1em;">AI / Machine Learning</li>
-        <li style="list-style-position: outside; text-indent: -1em; padding-left: 1em;">Financial Engineering</li>
-        <li style="list-style-position: outside; text-indent: -1em; padding-left: 1em;">Natural Language Processing</li>
+        <li style="margin: 0; padding-left: 1em;">Backend / Server</li>
+        <li style="margin: 0; padding-left: 1em;">Data Science</li>
+        <li style="margin: 0; padding-left: 1em;">AI / Machine Learning</li>
+        <li style="margin: 0; padding-left: 1em;">Financial Engineering</li>
+        <li style="margin: 0; padding-left: 1em;">Natural Language Processing</li>
     </ul>
 </div>
 
