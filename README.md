@@ -81,7 +81,7 @@
 <!--</p>-->
 
 
-<div style="text-align: center;">
+<div align="center;">
     <h2>Interests 👀</h2>
     <ul style="list-style-position: outside; padding: 0; margin: 0; display: inline-block; text-align: left;">
         <li style="margin: 0; padding-left: 1em;">Backend / Server</li>
