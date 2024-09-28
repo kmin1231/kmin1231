@@ -79,13 +79,8 @@
 
 <div align="center">
     <h2>Interests 👀</h2>
-    <ul style="list-style-position: outside; padding: 0; margin: 0; display: inline-block; text-align: left;">
-        <li>Backend / Server</li>
-        <li>Data Science</li>
-        <li>AI / Machine Learning</li>
-        <li>Financial Engineering</li>
-        <li>Natural Language Processing</li>
-    </ul>
+    <p>Backend / Server / Data Science / Machine Learning</p>
+    <p>Financial Engineering / Natural Language Processing</p>
 </div>
 
 
