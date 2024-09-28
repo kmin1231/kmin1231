@@ -76,23 +76,17 @@
 <!--    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">-->
 <!--</div>-->
 
-<!--<p align="center" style="margin-top: 20px">-->
-<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmin1231&layout=compact&theme=catppuccin_latte&langs_count=8" />-->
-<!--</p>-->
+<p align="center" style="margin-top: 20px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmin1231&layout=compact&theme=catppuccin_latte&langs_count=8" />
+</p>
 
 
-<div align="center">
-    <div style="text-align: center";>
-        <h2>Interests 👀</h2>
-        <ul style="list-style-position: outside; padding: 0; margin: 0; display: inline-block; text-align: left;">
-            <li style="margin: 0; padding-left: 1em;">Backend / Server</li>
-            <li style="margin: 0; padding-left: 1em;">Data Science</li>
-            <li style="margin: 0; padding-left: 1em;">AI / Machine Learning</li>
-            <li style="margin: 0; padding-left: 1em;">Financial Engineering</li>
-            <li style="margin: 0; padding-left: 1em;">Natural Language Processing</li>
-        </ul>
-    </div>
-</div>
+## <center>Interests 👀</center>
+<center>Backend & Server</center>
+<center>Data Science       </center>
+<center>AI / Machine Learning</center>
+<center>Financial Engineering</center>
+<center>Natural Language Processing</center>
 
 
 <!--<div align= "center">-->
