@@ -4,10 +4,6 @@
     <img src="https://capsule-render.vercel.app/api?type=rect&color=9be1f4&height=150&section=header&text=Hello,%20world!&fontSize=48&fontColor=ffffff">
 </div>
 
-<!--# education()-->
-<!--- Currently majoring in Computer Science and Engineering-->
-
-
 <h2 align="center" style="margin-top: 30px"> 📚 Technology Stack </h2>
 
 <div align="center">
@@ -16,7 +12,7 @@
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> 
-    </div>
+</div>
 
 <div align="center">
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white">
@@ -76,17 +72,21 @@
 <!--    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">-->
 <!--</div>-->
 
-<p align="center" style="margin-top: 20px">
+<p align="center" style="margin-top: 1em">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmin1231&layout=compact&theme=catppuccin_latte&langs_count=8" />
 </p>
 
 
-## <center>Interests 👀</center>
-<center>Backend & Server</center>
-<center>Data Science       </center>
-<center>AI / Machine Learning</center>
-<center>Financial Engineering</center>
-<center>Natural Language Processing</center>
+<div align="center">
+    <h2>Interests 👀</h2>
+    <ul style="list-style-position: outside; padding: 0; margin: 0; display: inline-block; text-align: left;">
+        <li>Backend / Server</li>
+        <li>Data Science</li>
+        <li>AI / Machine Learning</li>
+        <li>Financial Engineering</li>
+        <li>Natural Language Processing</li>
+    </ul>
+</div>
 
 
 <!--<div align= "center">-->
