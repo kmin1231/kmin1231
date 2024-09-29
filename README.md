@@ -4,7 +4,7 @@
     <img src="https://capsule-render.vercel.app/api?type=rect&color=9be1f4&height=130&section=header&text=Hello,%20world!&fontSize=48&fontColor=ffffff">
 </div>
 
-<h2 align="center" style="margin-top: 30px"> 📚 Technology Stack </h2>
+<h2 align="center" style="margin-top: 30px"> 📚 Experience </h2>
 
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=Python&logoColor=white">
