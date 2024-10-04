@@ -8,7 +8,7 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=Python&logoColor=white">
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+<!--     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> -->
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> 
@@ -80,8 +80,11 @@
 
 <div align="center">
     <h2>Interests 👀</h2>
-    <p>Backend / Server / Data Science / Machine Learning</p>
-    <p>Financial Engineering / Natural Language Processing</p>
+    <p>Backend / Server<p>
+    <p>Machine Learning</p>
+    <p>Data Science</p>
+    <p>Financial Engineering</p>
+    <p>Natural Language Processing</p>
 </div>
 
 
