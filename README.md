@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
     <img src="https://img.shields.io/badge/springboot-6AAD3C?style=for-the-badge&logo=springboot&logoColor=white">
     <img src="https://img.shields.io/badge/Anaconda-%01963a.svg?style=for-the-badge&logo=anaconda&logoColor=white">
-</div> -->
+</div>
 
 <h3 align="center" style="margin-top: 20px"> Database </h3>
 
