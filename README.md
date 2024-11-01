@@ -61,10 +61,14 @@
 <div  align= "center">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
-    <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
     <img src="https://img.shields.io/badge/VIM-%01963a.svg?style=for-the-badge&logo=vim&logoColor=white">
-<!--     <img src="https://img.shields.io/badge/IntelliJIDEA-EA415B.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">     -->
-<!--     <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=green&labelColor=green"> -->
+</div>
+
+<div  align= "center">
+    <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+    <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
+    <!--     <img src="https://img.shields.io/badge/IntelliJIDEA-EA415B.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">     -->
+    <!--     <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=green&labelColor=green"> -->
 </div>
 
 <h3 align="center" style="margin-top: 20px"> Others </h3>
