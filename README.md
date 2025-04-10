@@ -63,7 +63,7 @@
 <h3 align="center" style="margin-top: 20px"> Operating Systems </h3>
 
 <div  align= "center"> 
-    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img src="https://img.shields.io/badge/linux-d1b056?style=for-the-badge&logo=linux&logoColor=white">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
     <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white">
 </div>
@@ -92,7 +92,7 @@
     <img src="https://img.shields.io/badge/Terraform-a274d6?style=for-the-badge&logo=terraform&logoColor=white">
     <img src="https://img.shields.io/badge/nginx-%01963a?style=for-the-badge&logo=nginx&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
-    <img src="https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515">
+    <img src="https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=white">
 </div>
 
 <div  align= "center">
@@ -141,7 +141,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmin1231&layout=compact&theme=catppuccin_latte&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmin1231&layout=compact&theme=catppuccin_latte&langs_count=6" />
 </p>
 
 
