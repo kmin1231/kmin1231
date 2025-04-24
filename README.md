@@ -141,17 +141,16 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmin1231&layout=compact&theme=catppuccin_latte&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmin1231&layout=compact&theme=prussian&langs_count=6" width=35% />
 </p>
 
 
 <div align="center">
     <h2>Interests 👀</h2>
-    <p>Backend / Server<p>
-    <p>Machine Learning</p>
-    <p>Data Science</p>
+    <p>Backend & Server<p>
+    <p>Platform Engineering</p>
     <p>Financial Engineering</p>
-    <p>Natural Language Processing</p>
+    <p>Languages</p>
 </div>
 
 
