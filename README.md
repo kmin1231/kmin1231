@@ -141,7 +141,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmin1231&layout=compact&theme=prussian&langs_count=6" width=35% />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmin1231&layout=compact&theme=nord&langs_count=6" width=40% />
 </p>
 
 
