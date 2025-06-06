@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=cee6f4&height=70&section=header&text=From%20ZERO%20to%20Beyond&fontSize=28&fontColor=ffffff&animation=scaleIn">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=b0dff5&height=70&section=header&text=From%20ZERO%20to%20Beyond&fontSize=28&fontColor=ffffff&animation=scaleIn">
 </div>
 
 <br>
@@ -49,10 +49,15 @@
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+</div>
+
+<div>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/springboot-%2373bd40?style=for-the-badge&logo=springboot&logoColor=white">
     <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-99c95d?style=for-the-badge&logo=Node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">    
 </div>
 
 ### 🔧 Database
@@ -77,7 +82,6 @@
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
     <img src="https://img.shields.io/badge/Terraform-a274d6?style=for-the-badge&logo=terraform&logoColor=white">
-    <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
 </div>
 
 
