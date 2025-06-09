@@ -3,7 +3,17 @@
 </div>
 
 ## 📌 echo $USER
-### `Eden Min Kim`
+
+<h3>
+    <code>Eden Min Kim</code>
+    <span>&nbsp;&nbsp;</span>
+    <a href="https://www.linkedin.com/in/kmin1231" target="_blank" rel="noopener noreferrer" style="margin-left: 16px;">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linked&logoColor=white" height="25" style="vertical-align: middle;">
+    </a>
+    <a href="https://drive.google.com/file/d/1hD80TvzhFBcGzrVbZaLPALdsugJp4nOW/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="margin-left: 8px;">
+        <img src="https://img.shields.io/badge/tech_resume-22dae0?style=for-the-badge&logo=googledrive&logoColor=white" height="25" style="vertical-align: middle;">
+    </a>
+</h3>
 
 - 🧐 A curious and dedicated **developer** constantly exploring new challenges
 - 🧩 Areas of Interest: **`Backend Development`**, **`DevOps & Cloud`**, **`Financial Engineering`**
