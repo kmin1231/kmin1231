@@ -8,7 +8,7 @@
     <code>Eden Min Kim</code>
     <span>&nbsp;&nbsp;</span>
     <a href="https://www.linkedin.com/in/kmin1231" target="_blank" rel="noopener noreferrer" style="margin-left: 16px;">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linked&logoColor=white" height="25" style="vertical-align: middle;">
+        <img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linked&logoColor=white" height="25" style="vertical-align: middle;">
     </a>
     <a href="https://drive.google.com/file/d/1hD80TvzhFBcGzrVbZaLPALdsugJp4nOW/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="margin-left: 8px;">
         <img src="https://img.shields.io/badge/tech_resume-22dae0?style=for-the-badge&logo=googledrive&logoColor=white" height="25" style="vertical-align: middle;">
@@ -22,7 +22,7 @@
 
 | University                                | Degree & Major                                                  | Period                |
 |:----------------------------------------:|:---------------------------------------------------------------:|:---------------------:|
-| 🎓 **Kyung Hee University** (South Korea) | Bachelor’s Degree in **Computer Science and Engineering**        | Mar 2023 – Present    |
+| 🎓 **Kyung Hee University** (South Korea) | Bachelor’s Degree in **Computer Science and Engineering**        | Mar 2023 – Aug 2025   |
 | 🎓 **Wesleyan University** (CT, USA)      | Bachelor of Arts in **Economics** and **Mathematics**            | Sep 2014 – May 2018   |
 
 </div>
@@ -35,8 +35,8 @@
 
 | Title                                         | Details                               | Period            |
 |:---------------------------------------------:|:-------------------------------------:|:-----------------:|
-| 💻 **Backend & Frontend Developer**<br>National Project Researcher (Part-time, **Paid**) | 2xAI Research Lab, Kyung Hee University | Jan 2025 – Present |
-| 💻 **Backend Member** (1st Gen)              | Google Developer Groups on Campus KHU    | Sep 2024 – Present |
+| 💻 **Backend & Frontend Developer**<br>National Project Researcher (Part-time, **Paid**) | 2xAI Research Lab, Kyung Hee University | Feb 2025 – Present |
+| 💻 **Backend Member** (1st Gen)              | Google Developer Groups on Campus KHU    | Sep 2024 – May 2025 |
 | 🏅 **KHUPA Challenge** – **최우수상** (1st Prize) | GDGoC KHU Interdepartmental Project   | May 2025           |
 | 🏅 **1st Semothon** – **최우수상** (2nd Prize) | Kyung Hee University Collaborative Hackathon | Apr 2025       |
 | 📜 **Engineer Information Processing (정보처리기사)** | -                                  | Sep 2024          |
