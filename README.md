@@ -24,9 +24,9 @@
 <div align="center">
 
 | University                                | Degree & Major                                                  | Period                |
-|:----------------------------------------:|:---------------------------------------------------------------:|:---------------------:|
-| 🎓 **Kyung Hee University** (South Korea) | Bachelor’s Degree in **Computer Science and Engineering**        | Mar 2023 – Aug 2025   |
-| 🎓 **Wesleyan University** (CT, USA)      | Bachelor of Arts in **Economics** and **Mathematics**            | Sep 2014 – May 2018   |
+|:----------------------------------------:|---------------------------------------------------------------|:---------------------:|
+| 🎓 **Kyung Hee University** (South Korea) | Bachelor of Engineering<br>in **Computer Science and Engineering** (4.06/4.5)        | Mar 2023 – Aug 2025   |
+| 🎓 **Wesleyan University** (CT, USA)      | Bachelor of Arts<br>in **Economics**and **Mathematics** (3.77/4.0)            | Sep 2014 – May 2018   |
 
 </div>
 
@@ -39,12 +39,11 @@
 | Title                                         | Details                               | Period            |
 |:---------------------------------------------:|:-------------------------------------:|:-----------------:|
 | 💻 **Backend & Frontend Developer**<br>National Project Researcher (Part-time, **Paid**) | 2xAI Research Lab, Kyung Hee University | Feb 2025 – Present |
-| 💻 **Backend Member** (1st Gen)              | Google Developer Groups on Campus KHU    | Sep 2024 – May 2025 |
+| 💻 **Backend Member** (1st Cohort)           | Google Developer Groups on Campus KHU    | Sep 2024 – May 2025 |
 | 🏅 **KHUPA Challenge** – **최우수상** (1st Prize) | GDGoC KHU Interdepartmental Project   | May 2025           |
 | 🏅 **1st Semothon** – **최우수상** (2nd Prize) | Kyung Hee University Collaborative Hackathon | Apr 2025       |
 | 📜 **Engineer Information Processing (정보처리기사)** | -                                  | Sep 2024          |
 | 📜 **CAM (Certified Accounting Manager, 재경관리사)** | -                                  | Apr 2021          |
-
 </div>
 
 <br>
