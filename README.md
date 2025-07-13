@@ -40,8 +40,8 @@
 |:---------------------------------------------:|:-------------------------------------:|:-----------------:|
 | 💻 **Backend & Frontend Developer**<br>National Project Researcher (Part-time, **Paid**) | 2xAI Research Lab, Kyung Hee University | Feb 2025 – Present |
 | 💻 **Backend Member** (1st Cohort)           | Google Developer Groups on Campus KHU    | Sep 2024 – May 2025 |
-| 🏅 **KHUPA Challenge** – **최우수상** (1st Prize) | GDGoC KHU Interdepartmental Project   | May 2025           |
-| 🏅 **1st Semothon** – **최우수상** (2nd Prize) | Kyung Hee University Collaborative Hackathon | Apr 2025       |
+| 🏅 **KHUPA Challenge** – **우수 프로젝트상** (1st Prize) | GDGoC KHU Interdepartmental Project   | May 2025           |
+| 🏅 **2025 Semothon** – **최우수상** (2nd Prize) | Kyung Hee University Collaborative Hackathon | Apr 2025       |
 | 📜 **Engineer Information Processing (정보처리기사)** | -                                  | Sep 2024          |
 | 📜 **CAM (Certified Accounting Manager, 재경관리사)** | -                                  | Apr 2021          |
 </div>
