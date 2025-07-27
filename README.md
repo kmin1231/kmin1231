@@ -26,7 +26,7 @@
 | University                                | Degree & Major                                                  | Period                |
 |:----------------------------------------:|---------------------------------------------------------------|:---------------------:|
 | 🎓 **Kyung Hee University** (South Korea) | Bachelor of Engineering<br>in **Computer Science and Engineering** (4.06/4.5)        | Mar 2023 – Aug 2025   |
-| 🎓 **Wesleyan University** (CT, USA)      | Bachelor of Arts<br>in **Economics**and **Mathematics** (3.77/4.0)            | Sep 2014 – May 2018   |
+| 🎓 **Wesleyan University** (CT, USA)      | Bachelor of Arts<br>in **Economics** and **Mathematics** (3.77/4.0)            | Sep 2014 – May 2018   |
 
 </div>
 
