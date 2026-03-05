@@ -43,8 +43,9 @@
 | 🏅 **KHUPA Challenge** – **우수 프로젝트상** (1st Prize) | GDGoC KHU Interdepartmental Project   | May 2025           |
 | 🏅 **2025 Semothon** – **최우수상** (2nd Prize) | Kyung Hee University Collaborative Hackathon | Apr 2025       |
 | 📜 **정보처리기사** | Engineer Information Processing                                | Sep 2024          |
+| 📜 **빅데이터 분석기사** | Engineer Big Data Analysis                                | Dec 2025          |
+| 📜 **리눅스 마스터 2급** | Linux Master - Level 2                                    | Jan 2026          |
 | 📜 **SQLD** | SQL Developer                                                        | Dec 2025          |
-| 📜 **ADsP 데이터분석 준전문가** | Advanced Data Analytics Semi-Professional           | Sep 2025          |
 | 📜 **재경관리사** | Certified Accounting Manager (CAM)                               | Apr 2021          |
 </div>
 
