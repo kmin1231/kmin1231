@@ -10,16 +10,19 @@
     <a href="https://www.linkedin.com/in/kmin1231" target="_blank" rel="noopener noreferrer" style="margin-left: 16px;">
         <img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linked&logoColor=white" height="25" style="vertical-align: middle;">
     </a>
+    <a href="https://drive.google.com/file/d/1KLDH-tJvoeFMMYohp6XaG2Hd42r3Q4fB/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="margin-left: 8px;">
+        <img src="https://img.shields.io/badge/resume_KR-66cdde?style=for-the-badge&logo=googledrive&logoColor=white" height="25" style="vertical-align: middle;">
+    </a>
     <a href="https://drive.google.com/file/d/1hD80TvzhFBcGzrVbZaLPALdsugJp4nOW/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="margin-left: 8px;">
-        <img src="https://img.shields.io/badge/tech_resume-22dae0?style=for-the-badge&logo=googledrive&logoColor=white" height="25" style="vertical-align: middle;">
+        <img src="https://img.shields.io/badge/resume_EN-64d1bf?style=for-the-badge&logo=googledrive&logoColor=white" height="25" style="vertical-align: middle;">
     </a>
     <a href="https://www.notion.so/Eden-Min-Kim-20a23f3c3ca3804cbc6fe7473e16fd07?source=copy_link" target="_blank" rel="noopener noreferrer" style="margin-left: 8px;">
-        <img src="https://img.shields.io/badge/portfolio-4e75cf?style=for-the-badge&logo=notion&logoColor=white" height="25" style="vertical-align: middle;">
+        <!-- <img src="https://img.shields.io/badge/portfolio-4e75cf?style=for-the-badge&logo=notion&logoColor=white" height="25" style="vertical-align: middle;"> -->
     </a>
 </h3>
 
 - 🧐 A curious and dedicated **developer** constantly exploring new challenges
-- 🧩 Areas of Interest: **`Backend Development`**, **`DevOps & Cloud`**, **`Financial Engineering`**
+- 🧩 Areas of Interest: **`Backend Development`**, **`DevOps & Cloud`**, **`Data Science`**
 
 <div align="center">
 
@@ -32,7 +35,7 @@
 
 <br>
 
-## 🧭 Experiences
+## 🧭 Experience
 
 <div align="center">
 
@@ -51,7 +54,7 @@
 
 <br>
 
-## 🗂️ Tech Exposure
+## 🗂️ Technical Skills
 
 ### 🔧 Languages & Frameworks
 
